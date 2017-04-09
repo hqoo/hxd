@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.hqgame.com/Apps/hxd/ITB.ipa</string>
+					<string>http://www.hqgame.com/Apps/hxd/iTaobao</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ITB.ipa</string>
+				<string>iTaobao.ipa</string>
 			</dict>
 		</dict>
 	</array>
