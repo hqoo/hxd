@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.hqgame.com/Apps/hxd/Cbox_HD.ipa</string>
+					<string>http://www.hqgame.com/Apps/hxd/ITB.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.vuclip.mobiletv</string>
+				<string>com.taobao.taobao4iphone</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
