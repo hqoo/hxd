@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.muyoulei.net/imgs/muyoulei.png</string>
+                   <string>http://www.muyoulei.net/files/muyoulei.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://www.muyoulei.net/imgs/muyoulei.png</string>
+                   <string>http://www.muyoulei.net/files/muyoulei.png</string>
                </dict>
 			</array>
 			<key>metadata</key>
