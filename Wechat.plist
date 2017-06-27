@@ -13,14 +13,22 @@
 					<key>url</key>
 					<string>http://118.190.148.87/Apps/WeChat.ipa</string>
 				</dict>
-				<dict>
+		<dict>
                    <key>kind</key>
                    <string>display-image</string>
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
                    <string>http://www.muyoulei.net/imgs/muyoulei.png</string>
-                   </dict>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.muyoulei.net/imgs/muyoulei.png</string>
+               </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
